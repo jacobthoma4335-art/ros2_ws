@@ -1,0 +1,3 @@
+install(DIRECTORY meshes urdf
+  DESTINATION share/${PROJECT_NAME}
+)
